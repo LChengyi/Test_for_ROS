@@ -1,3 +1,5 @@
+ #by zcy 
+ #点击图像获得hsv/bgr参数的程序
 import logging
 logging.basicConfig(level=logging.INFO)
 
